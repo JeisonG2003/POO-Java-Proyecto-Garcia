@@ -2,6 +2,7 @@
 
 Hola, soy Jeison Garcia y este es mi proyecto de Programación Orientada a Objetos en Java.  
 Aquí desarrollé una aplicación sencilla para gestionar tareas usando consola, aplicando principios fundamentales de POO y buenas prácticas de programación.
+
 ---
 
 
@@ -9,6 +10,7 @@ Aquí desarrollé una aplicación sencilla para gestionar tareas usando consola,
 
 Este programa permite registrar tareas o actividades con título y descripción, y luego mostrarlas en pantalla.  
 Fue diseñado para practicar la organización del código en paquetes (`modelo`, `servicio`, `vista`, `dashboard`), uso de clases, y programación modular.
+
 ---
 
 
@@ -18,6 +20,7 @@ Fue diseñado para practicar la organización del código en paquetes (`modelo`,
 - **servicio:** contiene la clase `GestorActividades` que administra la lista de actividades.  
 - **vista:** incluye `InterfazConsola` para interactuar con el usuario por consola.  
 - **dashboard:** contiene la clase principal `Dashboard` que muestra el menú y coordina todo.
+
 ---
 
 
@@ -39,9 +42,9 @@ cd POO-Java-Proyecto-Garcia
 
 ```bash
 mvn compile exec:java -Dexec.mainClass=com.jeisongarcia.proyecto.dashboard.Dashboard
+
 ```
 
----
 
 **Autor**
 
