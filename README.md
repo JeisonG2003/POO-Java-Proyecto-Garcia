@@ -45,7 +45,7 @@ mvn compile exec:java -Dexec.mainClass=com.jeisongarcia.proyecto.dashboard.Dashb
 
 ```
 
-
+---
 **Autor**
 
 Jeison Teobaldo Garcia Arreaga
