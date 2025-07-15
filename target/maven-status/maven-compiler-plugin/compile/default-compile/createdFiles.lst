@@ -1,0 +1,4 @@
+com\jeisongarcia\proyecto\modelo\Actividad.class
+com\jeisongarcia\proyecto\dashboard\Dashboard.class
+com\jeisongarcia\proyecto\servicios\GestorActividades.class
+com\jeisongarcia\proyecto\vista\InterfazConsola.class
