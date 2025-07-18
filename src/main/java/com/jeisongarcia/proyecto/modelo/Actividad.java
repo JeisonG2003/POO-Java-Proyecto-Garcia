@@ -6,7 +6,7 @@ package com.jeisongarcia.proyecto.modelo;
 
 /**
  *
- * @author User
+ * @author Jeison Teobaldo Garcia Arreaga
  */
 public class Actividad {
     
